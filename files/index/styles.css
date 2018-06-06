@@ -1,10 +1,9 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(74, 82, 84, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:182px;
+  width:188px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -14,62 +13,99 @@
   z-index:0;
 }
 #u0 {
+  position:fixed;
+  left:0px;
+  top:0px;
+  width:188px;
+  height:1570px;
+  overflow:hidden;
+}
+#u0_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:0px;
-  height:0px;
+  width:188px;
+  height:1570px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u0_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:188px;
+  height:1571px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(228, 228, 228, 1);
+  border-left:0px;
+  border-top:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u1 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
+  top:-4px;
+  width:188px;
+  height:1571px;
 }
-#u2_div {
+#u1_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:153px;
-  height:31px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'楷体 Bold', '楷体';
-  font-weight:700;
-  font-style:normal;
-  font-size:20px;
-  color:#FFFFFF;
-  text-align:center;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:184px;
+  height:179px;
 }
 #u2 {
   border-width:0px;
   position:absolute;
-  left:29px;
-  top:43px;
-  width:153px;
-  height:31px;
-  font-family:'楷体 Bold', '楷体';
-  font-weight:700;
-  font-style:normal;
-  font-size:20px;
-  color:#FFFFFF;
-  text-align:center;
+  left:2px;
+  top:15px;
+  width:184px;
+  height:179px;
 }
 #u2_text {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:4px;
-  width:153px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u3_div {
@@ -77,8 +113,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:153px;
-  height:33px;
+  width:188px;
+  height:35px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -86,25 +122,23 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'楷体';
-  font-weight:400;
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
+  font-weight:700;
   font-style:normal;
-  font-size:14px;
-  color:#F2F2F2;
+  font-size:16px;
   text-align:center;
 }
 #u3 {
   border-width:0px;
   position:absolute;
-  left:29px;
-  top:69px;
-  width:153px;
-  height:33px;
-  font-family:'楷体';
-  font-weight:400;
+  left:0px;
+  top:189px;
+  width:188px;
+  height:35px;
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
+  font-weight:700;
   font-style:normal;
-  font-size:14px;
-  color:#F2F2F2;
+  font-size:16px;
   text-align:center;
 }
 #u3_text {
@@ -112,6 +146,45 @@
   position:absolute;
   left:0px;
   top:8px;
-  width:153px;
+  width:188px;
+  word-wrap:break-word;
+}
+#u4_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:188px;
+  height:35px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
+  font-weight:700;
+  font-style:normal;
+  text-align:center;
+}
+#u4 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:225px;
+  width:188px;
+  height:35px;
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
+  font-weight:700;
+  font-style:normal;
+  text-align:center;
+}
+#u4_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:10px;
+  width:188px;
   word-wrap:break-word;
 }
